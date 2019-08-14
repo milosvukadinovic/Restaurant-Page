@@ -1,0 +1,53 @@
+body {
+    background-image: url(..\pictures\background.jpg);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+  }
+  .navbarZ{
+      margin-top:5%;
+      border: 1px solid #000000;
+    
+  }
+  .title{
+      display: inline-block;
+      text-align: right;
+      color:rgb(94, 0, 0);
+      font-style:italic;
+      font-weight: 100;
+      font: 'Lobster Two', Helvetica, sans-serif;
+      margin-right:10px;
+  }
+  .logo{
+      vertical-align: middle;
+      float:left;
+      width: auto;
+      height: auto;
+  }
+  .divtitle{
+      float:right;
+      text-align:right; 
+      margin:0px auto 0px auto;
+      margin-top:50px;
+      background: red;
+    width: 700px;
+    box-shadow: 10px 10px 5px rgb(75, 75, 75);
+    border-radius: 15px 50px 30px 5px;
+  
+  padding: 20px;
+  }
+  .options{
+      text-align: left;
+      display:inline-block;
+      margin-right: 35%;
+      color:rgb(94, 0, 0);
+  }
+
+  .option:hover{
+    
+    color:white;
+    cursor: pointer;
+      
+  }
