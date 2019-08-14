@@ -31,7 +31,8 @@ body {
       text-align:right; 
       margin:0px auto 0px auto;
       margin-top:50px;
-      background: red;
+      background: rgb(255,33,33);
+background: linear-gradient(90deg, rgba(255,33,33,1) 0%, rgba(149,0,0,1) 31%, rgba(231,66,58,1) 68%);
     width: 700px;
     box-shadow: 10px 10px 5px rgb(75, 75, 75);
     border-radius: 15px 50px 30px 5px;
