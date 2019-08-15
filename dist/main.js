@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nvar getUrl = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\nvar ___CSS_LOADER_URL___0___ = getUrl(__webpack_require__(/*! ./../pictures/background.jpg */ \"./src/pictures/background.jpg\"));\n// Module\nexports.push([module.i, \"body {\\r\\n    background-image: url(\" + ___CSS_LOADER_URL___0___ + \");\\r\\n    font-size: 20px;\\r\\n    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;\\r\\n    background-repeat: no-repeat;\\r\\n    background-attachment: fixed;\\r\\n    background-position: center; \\r\\n  }\\r\\n  .navbarZ{\\r\\n      margin-top:5%;\\r\\n      border: 1px solid #000000;\\r\\n    \\r\\n  }\\r\\n  .title{\\r\\n      display: inline-block;\\r\\n      text-align: right;\\r\\n      color:rgb(94, 0, 0);\\r\\n      font-style:italic;\\r\\n      font-weight: 100;\\r\\n      font: 'Lobster Two', Helvetica, sans-serif;\\r\\n      margin-right:10px;\\r\\n  }\\r\\n  .logo{\\r\\n      vertical-align: middle;\\r\\n      float:left;\\r\\n      width: auto;\\r\\n      height: auto;\\r\\n  }\\r\\n  .divtitle{\\r\\n      float:right;\\r\\n      text-align:right; \\r\\n      margin:0px auto 0px auto;\\r\\n      margin-top:50px;\\r\\n      background: rgb(255,33,33);\\r\\nbackground: linear-gradient(90deg, rgba(255,33,33,1) 0%, rgba(149,0,0,1) 31%, rgba(231,66,58,1) 68%);\\r\\n    width: 700px;\\r\\n    box-shadow: 10px 10px 5px rgb(75, 75, 75);\\r\\n    border-radius: 15px 50px 30px 5px;\\r\\n  \\r\\n  padding: 20px;\\r\\n  }\\r\\n  .options{\\r\\n      text-align: left;\\r\\n      display:inline-block;\\r\\n      margin-right: 35%;\\r\\n      color:rgb(94, 0, 0);\\r\\n  }\\r\\n\\r\\n  .option:hover{\\r\\n    \\r\\n    color:white;\\r\\n    cursor: pointer;\\r\\n      \\r\\n  }\", \"\"]);\n\n\n//# sourceURL=webpack:///./src/css/styles.css?./node_modules/css-loader/dist/cjs.js");
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nvar getUrl = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\nvar ___CSS_LOADER_URL___0___ = getUrl(__webpack_require__(/*! ./../pictures/background.jpg */ \"./src/pictures/background.jpg\"));\n// Module\nexports.push([module.i, \"body {\\r\\n  background-image: url(\" + ___CSS_LOADER_URL___0___ + \");\\r\\n  font-size: 20px;\\r\\n  font-family: \\\"Franklin Gothic Medium\\\", \\\"Arial Narrow\\\", Arial, sans-serif;\\r\\n  background-repeat: no-repeat;\\r\\n  background-attachment: fixed;\\r\\n  background-position: center;\\r\\n}\\r\\n.navbarZ {\\r\\n  margin-top: 5%;\\r\\n}\\r\\n.title {\\r\\n  display: inline-block;\\r\\n  text-align: right;\\r\\n  color: rgb(94, 0, 0);\\r\\n  font-style: italic;\\r\\n  font-weight: 100;\\r\\n  font: \\\"Lobster Two\\\", Helvetica, sans-serif;\\r\\n  margin-right: 10px;\\r\\n  padding-right:20px;\\r\\n}\\r\\n.logo {\\r\\n  vertical-align: middle;\\r\\n  display: inline;\\r\\n}\\r\\n.divtitle {\\r\\n  text-align: right;\\r\\n  padding-top:20px;\\r\\n  padding-left:20px;\\r\\n  padding-bottom:20px;\\r\\n  display: inline;\\r\\n  background: linear-gradient(\\r\\n    90deg,\\r\\n    rgba(255, 33, 33, 1) 0%,\\r\\n    rgba(149, 0, 0, 1) 31%,\\r\\n    rgba(231, 66, 58, 1) 68%\\r\\n  );\\r\\n  box-shadow: 10px 10px 5px rgb(75, 75, 75);\\r\\n  border-radius: 15px 50px 30px 5px;\\r\\n\\r\\n}\\r\\n.options {\\r\\n  text-align: left;\\r\\n  display: inline-block;\\r\\n  margin-right: 35%;\\r\\n  color: rgb(94, 0, 0);\\r\\n  padding-left:20px;\\r\\n}\\r\\n\\r\\n.option:hover {\\r\\n  color: white;\\r\\n  cursor: pointer;\\r\\n}\\r\\n\\r\\n.optionsMenu{\\r\\n    background: linear-gradient(\\r\\n    90deg,\\r\\n    rgba(255, 33, 33, 1) 0%,\\r\\n    rgba(149, 0, 0, 1) 31%,\\r\\n    rgba(231, 66, 58, 1) 68%\\r\\n  );\\r\\n  box-shadow: 10px 10px 5px rgb(75, 75, 75);\\r\\n  border-radius: 15px 50px 30px 5px;\\r\\n    width: 75%;\\r\\n    margin:auto;\\r\\n    text-align: center;\\r\\n}\\r\\n\\r\\n.food{\\r\\n    height: 200px;\\r\\n    width: 200px;\\r\\n    margin:10px;\\r\\n    padding:30px;\\r\\n    box-shadow: 10px 10px 5px rgb(75, 75, 75);\\r\\n    border-radius: 15px 50px 30px 5px;\\r\\n    vertical-align: middle;\\r\\n    \\r\\n}\\r\\n\\r\\n.foodZ{\\r\\n    display:inline-block;\\r\\n    margin:auto;\\r\\n    padding:auto;\\r\\n    text-align: center;\\r\\n}\", \"\"]);\n\n\n//# sourceURL=webpack:///./src/css/styles.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -156,6 +156,30 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _mod
 
 /***/ }),
 
+/***/ "./src/modules/about.js":
+/*!******************************!*\
+  !*** ./src/modules/about.js ***!
+  \******************************/
+/*! exports provided: about */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"about\", function() { return about; });\n\r\nconst about = document.createElement(\"div\");\r\nabout.classList.add(\"optionsMenu\");\r\n\r\nabout.innerHTML = `\r\n<div class=\"about-container\" id=\"tab-info\"><br>\r\n<h1>About Us:</h1><br>\r\n<div id=\"LocationCopy\">\r\n        <p><strong>Downtown Indianapolis</strong><br>\r\n        11 W. Georgia St.<br>\r\n        Indianapolis, IN 46225</p>\r\n\t\t<p>Hours of Operation:<br>\r\n        Monday – Thursday 11am – 10pm<br>\r\n        Friday – Saturday 11am – 11pm<br>\r\n        Sunday 12pm – 9pm</p>\r\n        \r\n\t\t\r\n        </div>\r\n        <br><br>\r\n  \r\n\r\n\r\n`;\r\n\r\n\n\n//# sourceURL=webpack:///./src/modules/about.js?");
+
+/***/ }),
+
+/***/ "./src/modules/contact.js":
+/*!********************************!*\
+  !*** ./src/modules/contact.js ***!
+  \********************************/
+/*! exports provided: contact */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"contact\", function() { return contact; });\n\r\nconst contact = document.createElement(\"div\");\r\ncontact.classList.add(\"optionsMenu\");\r\n\r\ncontact.innerHTML = `\r\n<div class=\"contact-container\" id=\"tab-info\"><br>\r\n<h1>Contact Us By:</h1><br>\r\n<a href='#'>Facebook</a><br>\r\n<a href='#'>Twitter</a><br>\r\n<span>Email: burgersalvation@lys.com </span><br>\r\n<span>Phone: +351/215-231 </span><br>\r\n<span>Mobile: +316 1231-13125-12341</span><br>\r\n</div><br><br>\r\n  \r\n\r\n\r\n`;\r\n\r\n\n\n//# sourceURL=webpack:///./src/modules/contact.js?");
+
+/***/ }),
+
 /***/ "./src/modules/header.js":
 /*!*******************************!*\
   !*** ./src/modules/header.js ***!
@@ -164,7 +188,19 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _mod
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"header\", function() { return header; });\n/* harmony import */ var _pictures_logo_png__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../pictures/logo.png */ \"./src/pictures/logo.png\");\n/* harmony import */ var _pictures_logo_png__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_pictures_logo_png__WEBPACK_IMPORTED_MODULE_0__);\n\r\n\r\nconst header = document.createElement(\"nav\");\r\nheader.classList.add(\"navbarZ\");\r\n\r\nheader.innerHTML = `\r\n<img class='logo' src=\"${_pictures_logo_png__WEBPACK_IMPORTED_MODULE_0___default.a}\">\r\n<div class='divtitle'>\r\n    <div class=\"options\">\r\n        |<span class=\"menu option\">Menu</span>|\r\n        <span class=\"about option\">About Us</span>|\r\n        <span class=\"contact option\">Contact Us</span>|\r\n    </div>\r\n<h1 class='title'>Bon Appetit  </h1>\r\n<div>\r\n`;\r\n\r\n\n\n//# sourceURL=webpack:///./src/modules/header.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"header\", function() { return header; });\n/* harmony import */ var _pictures_logo_png__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../pictures/logo.png */ \"./src/pictures/logo.png\");\n/* harmony import */ var _pictures_logo_png__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_pictures_logo_png__WEBPACK_IMPORTED_MODULE_0__);\n\r\n\r\nconst header = document.createElement(\"div\");\r\nheader.classList.add(\"navbarZ\");\r\n\r\nheader.innerHTML = `\r\n<img class='logo' src=\"${_pictures_logo_png__WEBPACK_IMPORTED_MODULE_0___default.a}\">\r\n<div class='divtitle'>\r\n    <div class=\"options\">\r\n        |<span id=\"menu\" class=\"menu option\">Menu</span>|\r\n        <span id=\"about\" class=\"about option\">About Us</span>|\r\n        <span id=\"contact\" class=\"contact option\">Contact Us</span>|\r\n    </div>\r\n<h1 class='title'>Bon Appetit  </h1>\r\n<div>\r\n`;\r\n\r\n\n\n//# sourceURL=webpack:///./src/modules/header.js?");
+
+/***/ }),
+
+/***/ "./src/modules/menu.js":
+/*!*****************************!*\
+  !*** ./src/modules/menu.js ***!
+  \*****************************/
+/*! exports provided: menu */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"menu\", function() { return menu; });\n/* harmony import */ var _pictures_logo_png__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../pictures/logo.png */ \"./src/pictures/logo.png\");\n/* harmony import */ var _pictures_logo_png__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_pictures_logo_png__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _pictures_big_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../pictures/big.jpg */ \"./src/pictures/big.jpg\");\n/* harmony import */ var _pictures_big_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_pictures_big_jpg__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _pictures_medium_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../pictures/medium.jpg */ \"./src/pictures/medium.jpg\");\n/* harmony import */ var _pictures_medium_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_pictures_medium_jpg__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _pictures_steak_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../pictures/steak.jpg */ \"./src/pictures/steak.jpg\");\n/* harmony import */ var _pictures_steak_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_pictures_steak_jpg__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _pictures_vegan_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../pictures/vegan.jpg */ \"./src/pictures/vegan.jpg\");\n/* harmony import */ var _pictures_vegan_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_pictures_vegan_jpg__WEBPACK_IMPORTED_MODULE_4__);\n\r\n\r\n\r\n\r\n\r\n\r\nconst menu = document.createElement(\"div\");\r\nmenu.classList.add(\"optionsMenu\");\r\n\r\nmenu.innerHTML = `\r\n<div class=\"row\">\r\n  <div class=\"col-sm\">\r\n   <span>Steak 5$</span> <div class=\"foodZ\"><img class=\"food\" src=\"${_pictures_steak_jpg__WEBPACK_IMPORTED_MODULE_3___default.a}\"></div>\r\n    <div class=\"foodZ\"><img class=\"food\" src=\"${_pictures_vegan_jpg__WEBPACK_IMPORTED_MODULE_4___default.a}\"> <span>Vegan 6$</span></div>\r\n  </div>\r\n  <div class=\"col-sm\">\r\n  <span>Medium 4$</span><div class=\"foodZ\"><img class=\"food\" src=\"${_pictures_medium_jpg__WEBPACK_IMPORTED_MODULE_2___default.a}\"></div>\r\n  <div class=\"foodZ\"><img class=\"food\" src=\"${_pictures_big_jpg__WEBPACK_IMPORTED_MODULE_1___default.a}\"> <span>Big 7$</span></div>\r\n  </div>\r\n</div>\r\n<br><br>\r\n  \r\n\r\n\r\n`;\r\n\r\n\n\n//# sourceURL=webpack:///./src/modules/menu.js?");
 
 /***/ }),
 
@@ -176,7 +212,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"pageLoad\", function() { return pageLoad; });\n/* harmony import */ var _css_styles_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../css/styles.css */ \"./src/css/styles.css\");\n/* harmony import */ var _css_styles_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_css_styles_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./header */ \"./src/modules/header.js\");\n\r\n\r\n\r\n\r\nconst pageLoad = () => {\r\n  const body = document.getElementsByTagName(\"body\")[0];\r\n  body.appendChild(_header__WEBPACK_IMPORTED_MODULE_1__[\"header\"]);\r\n  \r\n\r\n \r\n};\r\n\r\n\n\n//# sourceURL=webpack:///./src/modules/pageLoad.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"pageLoad\", function() { return pageLoad; });\n/* harmony import */ var _css_styles_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../css/styles.css */ \"./src/css/styles.css\");\n/* harmony import */ var _css_styles_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_css_styles_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./header */ \"./src/modules/header.js\");\n/* harmony import */ var _menu__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./menu */ \"./src/modules/menu.js\");\n/* harmony import */ var _contact__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./contact */ \"./src/modules/contact.js\");\n/* harmony import */ var _about__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./about */ \"./src/modules/about.js\");\n\r\n\r\n\r\n\r\n\r\n\r\nconst pageLoad = () => {\r\n  const body = document.getElementsByTagName(\"body\")[0];\r\n  const container = document.createElement(\"div\");\r\n  body.appendChild(_header__WEBPACK_IMPORTED_MODULE_1__[\"header\"]);\r\n  body.appendChild(container);\r\n  container.appendChild(_contact__WEBPACK_IMPORTED_MODULE_3__[\"contact\"]);\r\n\r\n  document.getElementById(\"menu\").addEventListener(\"click\", event => {\r\n    \r\n    menuAdd();\r\n  });\r\n\r\n  document.getElementById(\"contact\").addEventListener(\"click\", event => {\r\n    contactAdd();\r\n  });\r\n\r\n  document.getElementById(\"about\").addEventListener(\"click\", event => {\r\n    aboutAdd();\r\n  });\r\n\r\n  function deleteContent() {\r\n    let child = container.lastElementChild;\r\n    while (child) {       \r\n        container.removeChild(child);\r\n        child = container.lastElementChild;\r\n    }\r\n}\r\n \r\n\r\n  function menuAdd() {\r\n    deleteContent();\r\n    container.appendChild(_menu__WEBPACK_IMPORTED_MODULE_2__[\"menu\"]);\r\n\r\n};\r\nfunction contactAdd() {\r\n  deleteContent();\r\n  container.appendChild(_contact__WEBPACK_IMPORTED_MODULE_3__[\"contact\"]);\r\n\r\n};\r\nfunction aboutAdd() {\r\n  deleteContent();\r\n  container.appendChild(_about__WEBPACK_IMPORTED_MODULE_4__[\"about\"]);\r\n\r\n};\r\n\r\n}\r\n\r\n\n\n//# sourceURL=webpack:///./src/modules/pageLoad.js?");
 
 /***/ }),
 
@@ -191,6 +227,17 @@ eval("module.exports = __webpack_require__.p + \"b5e37c7ce78eb1e521a3e5665921e0d
 
 /***/ }),
 
+/***/ "./src/pictures/big.jpg":
+/*!******************************!*\
+  !*** ./src/pictures/big.jpg ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"e80ce60897dfea140dcc02691adcdfd0.jpg\";\n\n//# sourceURL=webpack:///./src/pictures/big.jpg?");
+
+/***/ }),
+
 /***/ "./src/pictures/logo.png":
 /*!*******************************!*\
   !*** ./src/pictures/logo.png ***!
@@ -199,6 +246,39 @@ eval("module.exports = __webpack_require__.p + \"b5e37c7ce78eb1e521a3e5665921e0d
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"c14b4d7518b3b1702b88a586255c3ee9.png\";\n\n//# sourceURL=webpack:///./src/pictures/logo.png?");
+
+/***/ }),
+
+/***/ "./src/pictures/medium.jpg":
+/*!*********************************!*\
+  !*** ./src/pictures/medium.jpg ***!
+  \*********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"095ad7c52fc0558ad0c2e5b573d2d955.jpg\";\n\n//# sourceURL=webpack:///./src/pictures/medium.jpg?");
+
+/***/ }),
+
+/***/ "./src/pictures/steak.jpg":
+/*!********************************!*\
+  !*** ./src/pictures/steak.jpg ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"60cb4e1d3d319fb04752949dc918683c.jpg\";\n\n//# sourceURL=webpack:///./src/pictures/steak.jpg?");
+
+/***/ }),
+
+/***/ "./src/pictures/vegan.jpg":
+/*!********************************!*\
+  !*** ./src/pictures/vegan.jpg ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"c3bc06b544d2de6ad10b6921693f5dd4.jpg\";\n\n//# sourceURL=webpack:///./src/pictures/vegan.jpg?");
 
 /***/ })
 
