@@ -1,6 +1,6 @@
 
-const contact = document.createElement("div");
-contact.classList.add("optionsMenu");
+const contact = document.createElement('div');
+contact.classList.add('optionsMenu');
 
 contact.innerHTML = `
 <div class="contact-container" id="tab-info"><br>
@@ -16,4 +16,4 @@ contact.innerHTML = `
 
 `;
 
-export { contact };
+export {contact};
