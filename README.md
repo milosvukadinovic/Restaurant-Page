@@ -1,6 +1,8 @@
 # Restaurant-Page
   Practicing DOM manipulation with JavaScript.
   
+  ![Alt text](/src/css/ss.jpg)
+
   ## Requirements
 
 - Node.js
